@@ -1,0 +1,15 @@
+{
+  "name": "genpark-sparse-merkle-tree-smt-exclusion-skill",
+  "version": "1.0.0",
+  "description": "Sparse Merkle Tree (SMT) audit engine verifying both cryptographic key membership and non-membership exclusion proofs.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "sparse-merkle-tree",
+    "smt",
+    "exclusion-proofs",
+    "authenticated-dictionary"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
